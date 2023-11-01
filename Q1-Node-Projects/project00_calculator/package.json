@@ -1,0 +1,20 @@
+{
+  "name": "warisanjum_calculator",
+  "version": "1.0.0",
+  "description": "this project is for calculator",
+  "type": "module",
+  "main": "calculator.js",
+  "bin": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdul Waris",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.8.9"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.10"
+  }
+}

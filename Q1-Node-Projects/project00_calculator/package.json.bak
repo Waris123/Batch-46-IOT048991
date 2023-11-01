@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.11",
+    "warisanjum_calculator": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.6",
+    "@types/node": "^20.8.9"
+  }
+}
