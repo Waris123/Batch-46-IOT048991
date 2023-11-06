@@ -1,0 +1,20 @@
+{
+  "name": "warisanjum_student_management_system",
+  "version": "1.0.0",
+  "description": "All about student management system",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "warisanjum",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.8.10"
+  },
+  "dependencies": {
+    "@types/inquirer": "^9.0.6",
+    "inquirer": "^9.2.11"
+  }
+}
