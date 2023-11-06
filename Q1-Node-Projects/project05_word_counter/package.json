@@ -1,0 +1,20 @@
+{
+  "name": "warisanjum_word_count",
+  "version": "1.0.0",
+  "description": "The user will enter a english paragraph and all that is needed is to just to implement counting characters and words without whitespaces.",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "warisanjum",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.8.10"
+  },
+  "dependencies": {
+    "@types/inquirer": "^9.0.6",
+    "inquirer": "^9.2.11"
+  }
+}
