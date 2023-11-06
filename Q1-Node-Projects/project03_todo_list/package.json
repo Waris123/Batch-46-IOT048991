@@ -1,0 +1,20 @@
+{
+  "name": "warisanjum_todolist",
+  "version": "1.0.0",
+  "description": "Developed a simple command line Todo app using TypeScipt, Node.js and Inquirer.",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "warisanjum_todolist",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.6",
+    "@types/node": "^20.8.10"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.11"
+  }
+}
